@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inputEditText" type="id" />
+    <item name="clearButton" type="id" />
+    <item name="textView3" type="id" />
+    <item name="generateButton" type="id" />
+</resources>
